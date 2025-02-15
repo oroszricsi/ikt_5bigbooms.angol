@@ -1,0 +1,9 @@
+@media print {
+    body {
+    width: 42cm;
+    height: 59.4cm;
+    padding: 0;
+    margin: 0;
+    }
+   }
+
