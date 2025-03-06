@@ -21,3 +21,5 @@ Források:
 [Első világháború](https://hu.wikipedia.org/wiki/Els%C5%91_vil%C3%A1gh%C3%A1bor%C3%BA)
 
 [Második világháború](https://hu.wikipedia.org/wiki/M%C3%A1sodik_vil%C3%A1gh%C3%A1bor%C3%BA)
+
+[Brit zászló](https://www.google.com/url?sa=i&url=https%3A%2F%2Fallflags.online%2Fhu%2Fflag%2Fflag-united-kingdom%2F&psig=AOvVaw3Cf9sSBgnhpP3ATO_fyV6F&ust=1741363354629000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCP9ZHq9YsDFQAAAAAdAAAAABAJ)
